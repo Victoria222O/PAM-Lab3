@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Ocone Bozzovich Beneventano Bianco IGT",
+    "imageAsset": "assets/images/3.png",
+    "price": "₹ 23,256,596",
+    "criticsScore": 94,
+    "isAvailable": true,
+    "isAdded": false
+  },
+  {
+    "title": "2021 Petit Chablis - Passy Le Clou",
+    "imageAsset": "assets/images/4.png",
+    "price": "₹ 23,256,596",
+    "criticsScore": 94,
+    "isAvailable": true,
+    "isAdded": false
+  },
+  {
+    "title": "Philippe Fontaine Champagne Brut Rosé, Rosé de Saignée, NV",
+    "imageAsset": "assets/images/5.png",
+    "price": "₹ 23,256,596",
+    "criticsScore": 94,
+    "isAvailable": false,
+    "isAdded": true
+  },
+  {
+    "title": "2021 Cicada's Song Rosé",
+    "imageAsset": "assets/images/6.png",
+    "price": "₹ 23,256,596",
+    "criticsScore": 94,
+    "isAvailable": true,
+    "isAdded": false
+  }
+]
